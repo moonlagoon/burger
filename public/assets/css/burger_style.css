@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://us.123rf.com/450wm/katrink03/katrink031709/katrink03170900009/85572832-vector-seamless-pattern-of-colorful-3d-burgers-background-for-banner-packaging-menu-.jpg?ver=6");
+    font-family: 'Lilita One', cursive , Georgia, Times, 'Times New Roman', serif;
+}
+
+.container {
+    background-color: rgb(255, 213, 166);
+}
+
+section {
+    background-color: rgb(184, 186, 255);
+    font-size: 16px;
+    height: 32px;
+    border-radius: 4px;
+    align-content: center;
+    text-align: center;
+    padding-top: 4px;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 15%;
+}
+
+.form-control {
+    color: black;
+    margin: 5px;
+    border: 20px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+input#enter_text.form-control {
+    width: 50%;
+}
+
+form .btn {
+    font-size: 12px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button#text-enter-button.btn.btn-secondary {
+    position: relative;
+    margin-right: 50%;
+}
