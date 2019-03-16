@@ -11,4 +11,4 @@ devoured BOOLEAN DEFAULT false,
 PRIMARY KEY (id)
 );
 
-SELECT * FROM burgers_db.burgers;
+SELECT * FROM vrlpxvzdcs5czwcu.burgers;
